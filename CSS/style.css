@@ -112,8 +112,9 @@
 }
 
 .project-image img {
-    width: 100%;
-    max-width: 400px;
+    height: auto;
+    max-width: 100%;
+    min-width: 200px;
 }
 
 
