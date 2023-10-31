@@ -115,6 +115,8 @@
     height: auto;
     max-width: 100%;
     min-width: 200px;
+    margin-bottom: 20px;
+    margin-top: 20px;
 }
 
 
@@ -194,7 +196,8 @@
 
 
 .footer {
-    background-color: rgba(49, 119, 171, 0.5);
+   
+    background: linear-gradient(to bottom, #3177AB, #D1AAAF);
     color: #fff;
     padding: 50px;
     border-radius: 20px;
